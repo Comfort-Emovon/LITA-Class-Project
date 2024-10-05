@@ -2,6 +2,22 @@
 ## Project Title: Data Analysis Process
 ___
 
+### Table of Content
+
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualisation](#data-visualisation)
+
 ### Project Overview
 This project aims to summarise the steps of the data analysis process. The goal of data analysis is to discover useful information, inform conclusions, and support decision-making. In this project, I will be using data sourced from my LITA Data Analysis class to explain the data analysis steps which include: data sourcing, tools for data analysis, data cleaning and preparation, exploratory data analysis, data analysis, and data visualisation. 
 
