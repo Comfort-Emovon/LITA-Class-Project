@@ -17,3 +17,15 @@ The primary source of data used here is International Breweries.csv and this is 
 - GIThub for portfolio building
 
 ### Data Cleaning and Preparation
+This involves checking the data for errors and inconsistencies, and correcting or removing them. In the initial phase of data cleaning and preparations we performed the following actions:
+1. Data loading and inspection
+2. Handling missing variables
+3. Data cleaning and formatting
+
+### Exploratory Data Analysis
+This involves exploration of the data to answer some questions about the data:
+- What is the overall sales trend?
+- Which products are top sellers?
+- What are the products on peak sales?
+### Data Analysis
+This involves applying statistical or mathematical techniques to the data to discover patterns, relationships, or trends. 
